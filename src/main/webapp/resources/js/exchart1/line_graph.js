@@ -4,7 +4,7 @@ $(function() {
 	let ctx = document.getElementById("canvas").getContext("2d");
 
 	let lineChartData = {
-		labels : [],	// 일자
+		labels : [],	// 일자////
 		datasets : [		
 			{
 				label: "Exchange Rate dataset",
